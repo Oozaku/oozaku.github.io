@@ -1,0 +1,25 @@
+#my-profile-pic {
+  border-radius: 50%;
+  width: 150px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+nav {
+  background-color: #325079;
+}
+
+.nav-active-bg{
+  background-color: #0d6efd;
+}
+
+.nav-font-color {
+  color: #ffffff;
+}
+
+body {
+  background-color: #e5edef;
+  font-family:  'Nunito', sans-serif;
+}
